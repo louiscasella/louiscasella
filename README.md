@@ -2,7 +2,7 @@
 ## Étudiant en première année de BUT Informatique à l'université de Strasbourg.
 
 
-## 💻 Langages maîtrisés
+## 💻 Langages et outils maîtrisés
 
 ### Langages
 [![My Skills](https://skillicons.dev/icons?i=c,cs,java,python)](https://skillicons.dev)
