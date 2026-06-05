@@ -1,8 +1,16 @@
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,java,git,visualstudio,vscode,linux,redhat" />
-  </a>
-  
+# Louis CASELLA
+## Étudiant en première année de BUT Informatique à l'université de Strasbourg.
+
+
+## 💻 Langages maîtrisés
+
+### Langages
+[![My Skills](https://skillicons.dev/icons?i=c,cs,java,python)](https://skillicons.dev)
+
+### Outils
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,linux,redhat)](https://skillicons.dev)
+
+
 <div align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
     <picture>
