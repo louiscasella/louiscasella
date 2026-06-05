@@ -1,5 +1,7 @@
-[![My Skills](https://skillicons.dev/icons?i=c,cs,java,git,visualstudio,vscode,linux,redhat)](https://skillicons.dev)
-
+<div align="center">
+    [![My Skills](https://skillicons.dev/icons?i=c,cs,java,git,visualstudio,vscode,linux,redhat)](https://skillicons.dev)
+</div>
+  
 <div align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
     <picture>
