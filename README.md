@@ -1,12 +1,4 @@
-<p align="center">
-  <a href="https://skillicons.dev">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c%cs#java#git#visualstudio#vscode#linux#redhat&amp;theme=dark&amp;perline=8" />
-      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=C%CS#java#git#visualstudio#vscode#linux#redhat&amp;perline=8" />
-      <img src="https://skillicons.dev/icons?i=c,cs,java,git,visualstudio,vscode,linux,redhat&amp;perline=8" alt="icon" />
-    </picture>
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=c,cs,java,git,visualstudio,vscode,linux,redhat)](https://skillicons.dev)
 
 <div align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
