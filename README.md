@@ -1,9 +1,9 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=C%CS#java#git#visualstudio#vscode#linux#redhat&amp;theme=dark&amp;perline=8" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c%cs#java#git#visualstudio#vscode#linux#redhat&amp;theme=dark&amp;perline=8" />
       <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=C%CS#java#git#visualstudio#vscode#linux#redhat&amp;perline=8" />
-      <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,java,spring,docker,kubernetes,python,redis,mysql,notion,git,github,vercel&amp;theme=light&amp;perline=8" alt="技能图标" />
+      <img src="https://skillicons.dev/icons?i=c,cs,java,git,visualstudio,vscode,linux,redhat&amp;perline=8" alt="icon" />
     </picture>
   </a>
 </p>
