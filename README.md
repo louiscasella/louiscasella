@@ -1,3 +1,9 @@
+<div align="center">
+  <h1>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Monocraft&size=24&letterSpacing=monospace&duration=4500&pause=1500&width=600&lines=Bienvenue+sur+mon+Github+<3 alt="Typing SVG" /></a>
+  </h1>
+</div>
+
 ## 👤​ À propos de moi
 
 ### Salut 👋
