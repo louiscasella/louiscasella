@@ -2,7 +2,7 @@
     <img src="./assets/loureed.gif" width="800" height="600">
 </div>
 
-## 👤​ À propos de moi
+## 👤​ Qui suis-je ?
 
 ### Salut 👋
 Je m'appelle **Louis CASELLA**, j'ai 20 ans et je suis étudiant en première année de BUT Informatique à l'Université de Strasbourg.<br><br>
