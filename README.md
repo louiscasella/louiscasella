@@ -1,7 +1,5 @@
 <div align="center">
-  <h1>
-    <img src="./assets/loureed.gif">
-  </h1>
+    <img src="./assets/loureed.gif" width="300" height="200">
 </div>
 
 ## 👤​ À propos de moi
