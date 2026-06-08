@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="./assets/loureed.gif" width="1000" height="800">
+    <img src="./assets/loureed.gif" width="800" height="600">
 </div>
 
 ## 👤​ À propos de moi
