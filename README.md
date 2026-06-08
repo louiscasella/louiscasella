@@ -9,6 +9,10 @@ Je m'appelle **Louis CASELLA**, j'ai 20 ans et je suis étudiant en première an
 J'aime fouiller sur Internet et bidouiller tout ce qui touche de près ou de loin à l'informatique.<br><br>
 J'apprécie également le cinéma et la musique, ou mieux encore, les deux à la fois !<br><br>
 
+<div align="center">
+    <img src="./assets/twinpeaks.gif" width="800" height="600">
+</div>
+
 
 ## 💻 Langages et outils maîtrisés
 
