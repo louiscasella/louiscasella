@@ -10,7 +10,7 @@ J'aime fouiller sur Internet et bidouiller tout ce qui touche de près ou de loi
 J'apprécie également le cinéma et la musique, ou mieux encore, les deux à la fois !<br><br>
 
 <div align="center">
-    <img src="./assets/twinpeaks.gif" width="300" height="200">
+    <img src="./assets/twinpeaks.gif" width="400" height="300">
 </div>
 
 
