@@ -6,7 +6,6 @@
 
 ### Salut 👋
 Je m'appelle **Louis CASELLA**, j'ai 20 ans et je suis étudiant en première année de BUT Informatique à l'Université de Strasbourg.<br><br>
-Music, Cinema and Internet enthusiast
 
 <div align="center">
     <img src="./assets/twinpeaks.gif" width="300" height="200">
