@@ -6,18 +6,27 @@ on:
   workflow_dispatch:
 
 jobs:
-  languages:
+  metrics:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
+      # Carte "profil" : en-tête, activité, communauté, dépôts
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.base.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: header, activity, community, repositories
+          config_timezone: Europe/Paris
+          repositories_forks: yes
+
+      # Carte "langages" (forks inclus)
       - uses: lowlighter/metrics@latest
         with:
           filename: metrics.languages.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           config_timezone: Europe/Paris
-          # Inclure les forks dans le calcul (c'est ce qui manquait)
           repositories_forks: yes
           plugin_languages: yes
           plugin_languages_limit: 8
