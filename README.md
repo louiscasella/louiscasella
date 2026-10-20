@@ -2,7 +2,7 @@
     <img src="./assets/loureed.gif" width="800" height="600">
 </div>
 
-## 👤​ Qui suis-je ?
+## 👤 Qui suis-je ?
 
 ### Salut 👋
 Je m'appelle **Louis CASELLA**, j'ai 20 ans et je suis étudiant en deuxième année de BUT Informatique à l'Université de Strasbourg.<br><br>
@@ -11,6 +11,7 @@ Je m'appelle **Louis CASELLA**, j'ai 20 ans et je suis étudiant en deuxième an
     <img src="./assets/twinpeaks.gif" width="300" height="200">
 </div>
 
+![Profil](./metrics.base.svg)
 
 ## 💻 Langages et outils maîtrisés
 
@@ -19,6 +20,5 @@ Je m'appelle **Louis CASELLA**, j'ai 20 ans et je suis étudiant en deuxième an
 
 ### Outils
 [![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,linux)](https://skillicons.dev)
-
 
 ![Langages](./metrics.languages.svg)
